@@ -1,0 +1,36 @@
+body{
+	margin: 0;
+	background-color: #f1f1f1;
+}
+header{
+	background-color: brown;
+	padding: 20px;
+	text-align: center;
+	color: white;
+	font-family: "comic sans Ms", Arial;
+}
+nav{
+	overflow: hidden;
+	background-color: #333;
+}
+nav a{
+	float: left;
+	color: #fff;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+nav a:hover{
+	background-color: blue;
+	color: white;
+}
+.column{
+	float: left;
+	padding: 10px;
+}
+footer{
+	clear: both;
+	background-color: brown;
+	padding: 20px;
+	text-align: center;
+	color: white;
+}
